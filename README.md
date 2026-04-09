@@ -3,7 +3,7 @@
 <!-- 🌸 HEADER GIF — Maomao Banner -->
 <!-- GitHub doesn't support CSS cropping, but setting height="200" below simulates a banner crop.
      Increase/decrease the height value to control how much of the GIF shows. -->
-<img src="https://media4.giphy.com/media/sb08e2jEdp3J2xMgus/giphy.gif" width="100%" height="220" style="object-fit:cover; border-radius:12px;" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDV2a2E5dXkzbjlxaXUzN2l2c2Z5czNhdzB1OWhieWRkcDBzM2VmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CEVYfwh8ZPKk4G4cMl/giphy.gif" width="100%" height="220" style="object-fit:cover; border-radius:12px;" />
 
 <br/>
 
