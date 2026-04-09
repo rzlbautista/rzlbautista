@@ -11,9 +11,8 @@
 
 - 🤖 **AI Engineer @ WebPuppies (Singapore)**  
 - 🦜 Built **LLM pipelines, RAG systems & agentic workflows**
-- 🎓 CS @ **Jose Rizal University** — Dean’s Lister, DOST Scholar  
 - ☁️ **AWS Certified x3**
-- 🌸 President — **AWS Learning Club JRU (150+ members)**  
+- 🌸 President — **AWS Learning Club JRU (200+ members)**  
 
 🏴‍☠️ **Grand Line Goal:** Build AI that truly helps people  
 
