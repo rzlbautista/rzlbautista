@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f0c040,100:e84545&height=140&section=header&text=⚓%20Ahoy!%20I'm%20Rizelle&fontSize=38&fontColor=ffffff&animation=fadeIn" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8DB596,100:2F6F73&height=160&section=header&text=🌿%20AI%20Engineer%20Rizelle&fontSize=38&fontColor=F5F5F5&animation=fadeIn&fontAlignY=38&desc=Crafting%20intelligent%20systems%20with%20precision&descAlignY=60&descSize=16" />
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Ahoy!+I'm+Rizelle;AI+Engineer;Building+AI+Systems;LangChain+%7C+AWS+Bedrock;Python+%7C+FastAPI+%7C+React&center=true&width=600&height=45">
 </p>
