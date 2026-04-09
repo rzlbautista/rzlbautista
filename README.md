@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f0c040,100:e84545&height=140&section=header&text=⚓%20Ahoy!%20I'm%20Rizelle&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F0C040&center=true&vCenter=true&width=700&lines=🏴‍☠️+AI+Engineer+on+the+Grand+Line;🤖+Building+AI+that+actually+ships;🦜+LangChain+%7C+Bedrock+%7C+Agentic+AI;🌊+Python+%7C+FastAPI+%7C+React;⚓+Observation+Haki+Debugger+since+2022" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F0C040&center=true&vCenter=true&width=700&lines=%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+AI+Engineer+on+the+Grand+Line;🤖+Building+AI+that+ships;🦜+LangChain+%7C+Bedrock+%7C+Agentic+AI;🌊+Python+%7C+FastAPI+%7C+React;⚓+Observation+Haki+Debugger+since+2022" />
 </p>
 
 ---
