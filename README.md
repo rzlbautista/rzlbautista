@@ -5,7 +5,7 @@
 </p>
 ---
 
-<img src="https://media1.tenor.com/m/YlAfEqwdkZsAAAAC/mao-jumping-for-joy.gif" align="right" height="180"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpmcmFqZWhrOHppMGgxcnA3ajdxa2FiNG1jam0xdzQ5OW5ybTBtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Wj1SxyDEznCjXiMtm/giphy.gif" align="right" height="180"/>
 
 ### 🧭 About Me
 
