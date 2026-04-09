@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f0c040,100:e84545&height=120&section=header&text=⚓%20Hey,%20I'm%20Rizelle!&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/14ae576a-4e34-4561-a407-9be9ed6bf6e4" /><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f0c040,100:e84545&height=120&section=header&text=⚓%20Hey,%20I'm%20Rizelle!&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F0C040&center=true&vCenter=true&width=700&lines=🤖+AI+Engineer+%7C+AWS+Certified+x3;🏴‍☠️+Building+AI+systems+that+actually+ship;🦜+LangChain+%7C+Amazon+Bedrock+%7C+Agentic+AI;🌊+Python+%7C+FastAPI+%7C+React+%7C+Next.js;⚓+Debugging+with+Observation+Haki+since+2022" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://media.tenor.com/2J_qowQYhkYAAAAi/pet-tony-tony-chopper.gif" align="right" height="180" />
+<img src="https://media1.tenor.com/m/YlAfEqwdkZsAAAAC/mao-jumping-for-joy.gif" align="right" height="180" />
 
 ### 🧭 About me
 
