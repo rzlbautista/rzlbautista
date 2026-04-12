@@ -22,7 +22,7 @@
 - 🦜 Built **LLM pipelines, RAG systems & agentic workflows** — in production
 - ☁️ **AWS Certified × 3** | Pursuing Solutions Architect
 - 🌸 President — **AWS Learning Club JRU (150+ members)**
-- 📍 Cainta, Philippines
+- 📍 Manila, Philippines
 
 🏴‍☠️ **Grand Line Goal:** Build AI that truly helps people  
 > *"People's dreams never end!"* — Whitebeard
